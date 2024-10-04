@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "McGill Natural Language Processing"
+title: "McGill HealthCare AI Lab"
 layout: splash
 header:
     overlay_filter: rgba(237, 27, 47, 0.3)
@@ -11,7 +11,7 @@ header:
         - label: "Twitter"
           url: "https://twitter.com/McGill_NLP"
 
-excerpt: "McGill NLP is a research group within McGill University and Mila focusing on various topics in natural language processing."
+excerpt: "McGill NLP is a research group within McGill University and Mila focusing on various topics in healthcare and AI."
 
 row_research:
   - image_path: /assets/images/home/poster-1.webp
