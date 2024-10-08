@@ -32,6 +32,6 @@ Nelson is a PhD student at the Computational Linguistics lab (CLaC) at Concordia
 
 ## Logistics
 
-Date: August 26th<br>
+Date: August 27th<br>
 Time: 11:00AM <br>
 Location: F01 or via Zoom (See email)
