@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "McGill HealthCare AI Lab"
+title: "Montreal Healthcare AI"
 layout: splash
 header:
     overlay_filter: rgba(237, 27, 47, 0.3)
@@ -11,7 +11,7 @@ header:
         - label: "Twitter"
           url: "https://twitter.com/McGill_NLP"
 
-excerpt: "McGill NLP is a research group within McGill University and Mila focusing on various topics in healthcare and AI."
+excerpt: "Montreal Healthcare AI is a research group within McGill University and Mila focusing on various topics in healthcare and AI."
 
 row_research:
   - image_path: /assets/images/home/poster-1.webp
@@ -20,7 +20,7 @@ row_research:
     title: "Research"
     btn_label: "Publications"
     btn_class: "btn--primary"
-    excerpt: "We work on various topics, including semantic parsing, question answering, reading comprehension, and conversational systems. We present our works in Computational Linguistics, NLP and ML conferences and journals."
+    excerpt: "We focus on advancing healthcare through AI, exploring areas such as predictive analytics, medical imaging, patient monitoring, and personalized medicine. Our research is presented at leading healthcare and AI conferences and published in top journals."
 
 row_code:
   - image_path: /assets/images/home/github.webp
