@@ -1,6 +1,6 @@
 ---
-title: Reading Group Winter 2025
-permalink: /reading-group/winter-2025/
+title: Reading Group
+permalink: /reading-group/
 taxonomy: Reading-Group
 classes:
     - wide
