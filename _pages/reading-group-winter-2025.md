@@ -19,7 +19,7 @@ For the Winter 2025 semester, the reading group will meet on Fridays from 12:00 
 
 | **Date @ Time** | **Speaker(s)** | **Topic** | **More Information** |
 |---|---|---|---|
-| February 10th @ 12:00 PM | Leo Anthony Celi | The Role of AI in Transforming Healthcare | [click here]({% link _posts/reading-group/winter-2025/2025-02-10-leo-anthony-celi.md %}) |
+| *TBA* | *TBA* | *TBA* | *TBA* |
 
 ## History
 
