@@ -1,9 +1,23 @@
 ---
-title: "Talk by Leo Anthony Celi"
+title: "The Role of AI in Transforming Healthcare"
+venue: Zoom
+names: Leo Anthony Celi
+author: Leo Anthony Celi
+tags:
+- Healthcare AI
+categories:
+    - Reading-Group
+    - Winter-2025
+layout: post
+classes:
+    - wide
+    - no-sidebar
 date: 2025-02-10 12:00:00 -0500
-categories: reading-group
-tags: [healthcare, AI, Leo Anthony Celi]
 ---
+
+*{{ page.names }}*
+
+**{{ page.venue }}**
 
 ## Speaker: Leo Anthony Celi
 
